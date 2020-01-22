@@ -1,4 +1,3 @@
-what
 Model of the TREAT Reactor with MIMIC-N
 c
 c Conversion of TREAT reactor model with M8-Cal created by A. W. LaPorta
